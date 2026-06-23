@@ -1,0 +1,4 @@
+# This folder holds the lab's log files.
+# They are generated fresh by generate_logs.py (run automatically when your
+# Codespace is created) so the dates always look recent.
+# If the folder looks empty, run:  python generate_logs.py
